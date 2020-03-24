@@ -1,4 +1,6 @@
-# flare.0x15f.com
+#FlarePanel
+
+#ios appstore backend, customize appid, icon, card/banner pics, etc.
 
 API Usage:
 
