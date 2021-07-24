@@ -1,4 +1,4 @@
-# flare.0x15f.com
+# flarekit
 
 API Usage:
 
